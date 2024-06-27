@@ -2,7 +2,7 @@
 
 This repository contains the SenticVec knowledge base described in [SenticVec: Toward Robust and Human-Centric Neurosymbolic Sentiment Analysis](https://sentic.net/neurosymbolic-sentiment-analysis.pdf). 
 
-To download the SenticVec knowledge base, please click [here](https://sentic.net/senticvec.zip).
+To download SenticVec, please click [here](https://sentic.net/senticvec.zip).
 
 In SenticVec, the sentiment-pragmatic representation of each lexical unit is formulated as a 19-dimensional vector. SenticVec is currently available in English, Spanish, French, and Italian. 
 To use the knowledge base, simply load the corresponding json file as dictionary.
