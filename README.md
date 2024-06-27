@@ -14,5 +14,6 @@ If you use this knowledge base in your work, please cite the paper - [SenticVec:
 @article{zhang2024senticvec,
   title={SenticVec: Toward Robust and Human-Centric Neurosymbolic Sentiment Analysis},
   author={Zhang, Xulang and Mao, Rui and Cambria, Erik}
-}
+  conference={Proceedings of ACL}
+  year={2024}
 ```
